@@ -1,0 +1,560 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "9MovieQuiz14ViewControllerC"
+provides-member:
+- ["9MovieQuiz14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "btOptions"
+- "changeMusicStatus"
+- "changeMusicTime"
+- "checkAnswer"
+- "getNewQuiz"
+- "ivQuiz"
+- "quizManager"
+- "showHideSoundBar"
+- "slMusic"
+- "viSoundBar"
+- "viTimer"
+- "viewDidLoad"
+- "viewWillAppear"
+depends-top-level:
+- !private "!"
+- !private "..<"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "QuizManager"
+- "UIButton"
+- "UIImageView"
+- "UISlider"
+- "UIView"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "name"]
+- !private ["s10ArraySliceV", "setTitle"]
+- !private ["SK", "count"]
+- !private ["SK", "name"]
+- !private ["SK", "setTitle"]
+- !private ["SK", "subscript"]
+- !private ["So15CALayerDelegateP", "isHidden"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["So15CALayerDelegateP", "title"]
+- !private ["s7CVarArgP", "QuizManager"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "btOptions"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "getNewQuiz"]
+- !private ["s7CVarArgP", "isHidden"]
+- !private ["s7CVarArgP", "quizManager"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "title"]
+- !private ["s7CVarArgP", "viSoundBar"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "viewWillAppear"]
+- !private ["Sl", "count"]
+- !private ["Sl", "name"]
+- !private ["Sl", "setTitle"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "name"]
+- !private ["10Foundation15ContiguousBytesP", "setTitle"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "QuizManager"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "btOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "checkAnswer"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "generateRandomQuiz"]
+- !private ["s28CustomDebugStringConvertibleP", "getNewQuiz"]
+- !private ["s28CustomDebugStringConvertibleP", "isHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "quizManager"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "viSoundBar"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "viewWillAppear"]
+- !private ["s17CustomReflectableP", "checkAnswer"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "generateRandomQuiz"]
+- !private ["s17CustomReflectableP", "isHidden"]
+- !private ["s17CustomReflectableP", "name"]
+- !private ["s17CustomReflectableP", "setTitle"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "QuizManager"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "btOptions"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "getNewQuiz"]
+- !private ["s23CustomStringConvertibleP", "isHidden"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "quizManager"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s23CustomStringConvertibleP", "viSoundBar"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "viewWillAppear"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "name"]
+- !private ["10Foundation12DataProtocolP", "setTitle"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "checkAnswer"]
+- !private ["Se", "count"]
+- !private ["Se", "generateRandomQuiz"]
+- !private ["Se", "isHidden"]
+- !private ["Se", "name"]
+- !private ["Se", "subscript"]
+- !private ["SE", "checkAnswer"]
+- !private ["SE", "count"]
+- !private ["SE", "generateRandomQuiz"]
+- !private ["SE", "isHidden"]
+- !private ["SE", "name"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "QuizManager"]
+- ["SQ", ""]
+- !private ["SQ", "btOptions"]
+- !private ["SQ", "checkAnswer"]
+- !private ["SQ", "count"]
+- !private ["SQ", "generateRandomQuiz"]
+- !private ["SQ", "getNewQuiz"]
+- !private ["SQ", "isHidden"]
+- !private ["SQ", "name"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "quizManager"]
+- !private ["SQ", "setTitle"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "title"]
+- !private ["SQ", "viSoundBar"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "viewWillAppear"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "name"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s25ExpressibleByArrayLiteralP", "setTitle"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "checkAnswer"]
+- !private ["s23ExpressibleByNilLiteralP", "generateRandomQuiz"]
+- !private ["s23ExpressibleByNilLiteralP", "isHidden"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["SH", "QuizManager"]
+- ["SH", ""]
+- !private ["SH", "btOptions"]
+- !private ["SH", "checkAnswer"]
+- !private ["SH", "count"]
+- !private ["SH", "generateRandomQuiz"]
+- !private ["SH", "getNewQuiz"]
+- !private ["SH", "isHidden"]
+- !private ["SH", "name"]
+- !private ["SH", "quizManager"]
+- !private ["SH", "setTitle"]
+- !private ["SH", "subscript"]
+- !private ["SH", "title"]
+- !private ["SH", "viSoundBar"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "viewWillAppear"]
+- !private ["SM", "count"]
+- !private ["SM", "name"]
+- !private ["SM", "setTitle"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "QuizManager"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "btOptions"]
+- !private ["So8NSCodingP", "getNewQuiz"]
+- !private ["So8NSCodingP", "isHidden"]
+- !private ["So8NSCodingP", "quizManager"]
+- !private ["So8NSCodingP", "setTitle"]
+- !private ["So8NSCodingP", "title"]
+- !private ["So8NSCodingP", "viSoundBar"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "viewWillAppear"]
+- !private ["So26NSExtensionRequestHandlingP", "QuizManager"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "btOptions"]
+- !private ["So26NSExtensionRequestHandlingP", "getNewQuiz"]
+- !private ["So26NSExtensionRequestHandlingP", "quizManager"]
+- !private ["So26NSExtensionRequestHandlingP", "viSoundBar"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "viewWillAppear"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "QuizManager"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UISlider"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "btOptions"]
+- ["So8NSObjectC", "changeMusicStatus"]
+- ["So8NSObjectC", "changeMusicTime"]
+- ["So8NSObjectC", "checkAnswer"]
+- ["So8NSObjectC", "getNewQuiz"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isHidden"]
+- ["So8NSObjectC", "ivQuiz"]
+- ["So8NSObjectC", "quizManager"]
+- !private ["So8NSObjectC", "setTitle"]
+- ["So8NSObjectC", "showHideSoundBar"]
+- ["So8NSObjectC", "slMusic"]
+- !private ["So8NSObjectC", "title"]
+- ["So8NSObjectC", "viSoundBar"]
+- ["So8NSObjectC", "viTimer"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillAppear"]
+- !private ["So8NSObjectP", "QuizManager"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "btOptions"]
+- !private ["So8NSObjectP", "getNewQuiz"]
+- !private ["So8NSObjectP", "isHidden"]
+- !private ["So8NSObjectP", "quizManager"]
+- !private ["So8NSObjectP", "setTitle"]
+- !private ["So8NSObjectP", "title"]
+- !private ["So8NSObjectP", "viSoundBar"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "viewWillAppear"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["Sq", "checkAnswer"]
+- !private ["Sq", "generateRandomQuiz"]
+- !private ["Sq", "isHidden"]
+- !private ["Sq", "subscript"]
+- !private ["9MovieQuiz0B7ManagerC", "checkAnswer"]
+- !private ["9MovieQuiz0B7ManagerC", "generateRandomQuiz"]
+- !private ["9MovieQuiz0B7ManagerC", "init"]
+- !private ["9MovieQuiz0B6OptionV", "name"]
+- !private ["Sk", "count"]
+- !private ["Sk", "name"]
+- !private ["Sk", "setTitle"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "name"]
+- !private ["Sm", "setTitle"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "normal"]
+- !private ["ST", "count"]
+- !private ["ST", "name"]
+- !private ["ST", "setTitle"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["So14UIControlStateV", "normal"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "title"]
+- !private ["So29UIAccessibilityIdentificationP", "isHidden"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "title"]
+- !private ["So12UIAppearanceP", "isHidden"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- !private ["So12UIAppearanceP", "title"]
+- !private ["So21UIAppearanceContainerP", "QuizManager"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "btOptions"]
+- !private ["So21UIAppearanceContainerP", "getNewQuiz"]
+- !private ["So21UIAppearanceContainerP", "isHidden"]
+- !private ["So21UIAppearanceContainerP", "quizManager"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "title"]
+- !private ["So21UIAppearanceContainerP", "viSoundBar"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "viewWillAppear"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So8UIButtonC", "title"]
+- !private ["So18UIContentContainerP", "QuizManager"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "btOptions"]
+- !private ["So18UIContentContainerP", "getNewQuiz"]
+- !private ["So18UIContentContainerP", "quizManager"]
+- !private ["So18UIContentContainerP", "viSoundBar"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "viewWillAppear"]
+- !private ["So9UIControlC", "setTitle"]
+- !private ["So9UIControlC", "title"]
+- !private ["So17UICoordinateSpaceP", "isHidden"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- !private ["So17UICoordinateSpaceP", "title"]
+- !private ["So13UIDynamicItemP", "isHidden"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- !private ["So13UIDynamicItemP", "title"]
+- !private ["So18UIFocusEnvironmentP", "QuizManager"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "btOptions"]
+- !private ["So18UIFocusEnvironmentP", "getNewQuiz"]
+- !private ["So18UIFocusEnvironmentP", "isHidden"]
+- !private ["So18UIFocusEnvironmentP", "quizManager"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "title"]
+- !private ["So18UIFocusEnvironmentP", "viSoundBar"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "viewWillAppear"]
+- !private ["So11UIFocusItemP", "isHidden"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- !private ["So11UIFocusItemP", "title"]
+- !private ["So20UIFocusItemContainerP", "isHidden"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- !private ["So20UIFocusItemContainerP", "title"]
+- !private ["So24UILargeContentViewerItemP", "isHidden"]
+- !private ["So24UILargeContentViewerItemP", "setTitle"]
+- !private ["So24UILargeContentViewerItemP", "title"]
+- !private ["So30UIPasteConfigurationSupportingP", "QuizManager"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "btOptions"]
+- !private ["So30UIPasteConfigurationSupportingP", "getNewQuiz"]
+- !private ["So30UIPasteConfigurationSupportingP", "isHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "quizManager"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "title"]
+- !private ["So30UIPasteConfigurationSupportingP", "viSoundBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewWillAppear"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "QuizManager"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UISlider"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "btOptions"]
+- ["So11UIResponderC", "changeMusicStatus"]
+- ["So11UIResponderC", "changeMusicTime"]
+- ["So11UIResponderC", "checkAnswer"]
+- ["So11UIResponderC", "getNewQuiz"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isHidden"]
+- ["So11UIResponderC", "ivQuiz"]
+- ["So11UIResponderC", "quizManager"]
+- !private ["So11UIResponderC", "setTitle"]
+- ["So11UIResponderC", "showHideSoundBar"]
+- ["So11UIResponderC", "slMusic"]
+- !private ["So11UIResponderC", "title"]
+- ["So11UIResponderC", "viSoundBar"]
+- ["So11UIResponderC", "viTimer"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "QuizManager"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "btOptions"]
+- !private ["So30UIResponderStandardEditActionsP", "getNewQuiz"]
+- !private ["So30UIResponderStandardEditActionsP", "isHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "quizManager"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "title"]
+- !private ["So30UIResponderStandardEditActionsP", "viSoundBar"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "viewWillAppear"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "title"]
+- !private ["So16UIStateRestoringP", "QuizManager"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "btOptions"]
+- !private ["So16UIStateRestoringP", "getNewQuiz"]
+- !private ["So16UIStateRestoringP", "quizManager"]
+- !private ["So16UIStateRestoringP", "viSoundBar"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "viewWillAppear"]
+- !private ["So18UITraitEnvironmentP", "QuizManager"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "btOptions"]
+- !private ["So18UITraitEnvironmentP", "getNewQuiz"]
+- !private ["So18UITraitEnvironmentP", "isHidden"]
+- !private ["So18UITraitEnvironmentP", "quizManager"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- !private ["So18UITraitEnvironmentP", "title"]
+- !private ["So18UITraitEnvironmentP", "viSoundBar"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "viewWillAppear"]
+- !private ["So23UIUserActivityRestoringP", "QuizManager"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "btOptions"]
+- !private ["So23UIUserActivityRestoringP", "getNewQuiz"]
+- !private ["So23UIUserActivityRestoringP", "isHidden"]
+- !private ["So23UIUserActivityRestoringP", "quizManager"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- !private ["So23UIUserActivityRestoringP", "title"]
+- !private ["So23UIUserActivityRestoringP", "viSoundBar"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "viewWillAppear"]
+- !private ["So6UIViewC", "isHidden"]
+- !private ["So6UIViewC", "setTitle"]
+- !private ["So6UIViewC", "title"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "QuizManager"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UISlider"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "btOptions"]
+- ["So16UIViewControllerC", "changeMusicStatus"]
+- ["So16UIViewControllerC", "changeMusicTime"]
+- ["So16UIViewControllerC", "checkAnswer"]
+- ["So16UIViewControllerC", "getNewQuiz"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "ivQuiz"]
+- ["So16UIViewControllerC", "quizManager"]
+- ["So16UIViewControllerC", "showHideSoundBar"]
+- ["So16UIViewControllerC", "slMusic"]
+- ["So16UIViewControllerC", "viSoundBar"]
+- ["So16UIViewControllerC", "viTimer"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillAppear"]
+- ["9MovieQuiz14ViewControllerC", "Bool"]
+- ["9MovieQuiz14ViewControllerC", "QuizManager"]
+- ["9MovieQuiz14ViewControllerC", "UIButton"]
+- ["9MovieQuiz14ViewControllerC", "UIImageView"]
+- ["9MovieQuiz14ViewControllerC", "UISlider"]
+- ["9MovieQuiz14ViewControllerC", "UIView"]
+- ["9MovieQuiz14ViewControllerC", "btOptions"]
+- ["9MovieQuiz14ViewControllerC", "changeMusicStatus"]
+- ["9MovieQuiz14ViewControllerC", "changeMusicTime"]
+- ["9MovieQuiz14ViewControllerC", "checkAnswer"]
+- ["9MovieQuiz14ViewControllerC", "deinit"]
+- ["9MovieQuiz14ViewControllerC", "getNewQuiz"]
+- ["9MovieQuiz14ViewControllerC", "init"]
+- ["9MovieQuiz14ViewControllerC", "ivQuiz"]
+- ["9MovieQuiz14ViewControllerC", "quizManager"]
+- ["9MovieQuiz14ViewControllerC", "showHideSoundBar"]
+- ["9MovieQuiz14ViewControllerC", "slMusic"]
+- ["9MovieQuiz14ViewControllerC", "viSoundBar"]
+- ["9MovieQuiz14ViewControllerC", "viTimer"]
+- ["9MovieQuiz14ViewControllerC", "viewDidLoad"]
+- ["9MovieQuiz14ViewControllerC", "viewWillAppear"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "name"]
+- !private ["s14_ArrayProtocolP", "setTitle"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "name"]
+- !private ["s24_DestructorSafeContainerP", "setTitle"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "QuizManager"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "btOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getNewQuiz"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "quizManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viSoundBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewWillAppear"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "QuizManager"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "btOptions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "getNewQuiz"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "quizManager"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "title"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viSoundBar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewWillAppear"]
+- !private ["s21_ObjectiveCBridgeableP", "checkAnswer"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "generateRandomQuiz"]
+- !private ["s21_ObjectiveCBridgeableP", "isHidden"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isHidden"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "title"]
+depends-nominal:
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "9MovieQuiz0B7ManagerC"
+- !private "9MovieQuiz0B6OptionV"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "9MovieQuiz14ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "fdc097556d250b67a577e143e133ee5b"

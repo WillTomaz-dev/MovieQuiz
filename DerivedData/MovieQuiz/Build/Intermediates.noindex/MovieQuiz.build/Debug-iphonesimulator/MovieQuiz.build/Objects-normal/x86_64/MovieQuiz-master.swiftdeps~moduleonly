@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "1e80b637fb61b26949b9c5ba1e733893"
+build_time: [1593533424, 467816000]
+inputs:
+  "/Users/williamtomaz/Downloads/Projetos/MovieQuiz/MovieQuiz/QuizManager.swift": [1592326334, 0]
+  "/Users/williamtomaz/Downloads/Projetos/MovieQuiz/MovieQuiz/ViewController.swift": [1593533424, 0]
+  "/Users/williamtomaz/Downloads/Projetos/MovieQuiz/MovieQuiz/AppDelegate.swift": [1592319232, 0]
+  "/Users/williamtomaz/Downloads/Projetos/MovieQuiz/MovieQuiz/GameOverViewController.swift": [1593533406, 0]

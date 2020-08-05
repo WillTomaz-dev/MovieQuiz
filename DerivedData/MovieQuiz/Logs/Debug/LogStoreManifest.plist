@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>642D0386-28DD-487D-8816-8A8915D813EB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>642D0386-28DD-487D-8816-8A8915D813EB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MovieQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>615224879.98324394</real>
+			<key>timeStoppedRecording</key>
+			<real>615226224.47835302</real>
+			<key>title</key>
+			<string>Debug MovieQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>642D0386-28DD-487D-8816-8A8915D813EB</string>
+		</dict>
+		<key>8A328646-63FA-49D7-9279-748450513E55</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8A328646-63FA-49D7-9279-748450513E55.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MovieQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>615226233.19428205</real>
+			<key>timeStoppedRecording</key>
+			<real>615232256.557181</real>
+			<key>title</key>
+			<string>Debug MovieQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>8A328646-63FA-49D7-9279-748450513E55</string>
+		</dict>
+		<key>EC7F4626-058C-4928-B861-3F88668322F7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC7F4626-058C-4928-B861-3F88668322F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MovieQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>614018305.84451997</real>
+			<key>timeStoppedRecording</key>
+			<real>614018336.83091795</real>
+			<key>title</key>
+			<string>Debug MovieQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>EC7F4626-058C-4928-B861-3F88668322F7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

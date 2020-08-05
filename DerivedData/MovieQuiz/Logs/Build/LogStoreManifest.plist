@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>D274474A-5930-40C0-9FDC-5824BEF2EAC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D274474A-5930-40C0-9FDC-5824BEF2EAC9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MovieQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>615226224.25634396</real>
+			<key>timeStoppedRecording</key>
+			<real>615226233.32815599</real>
+			<key>title</key>
+			<string>Build MovieQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>D274474A-5930-40C0-9FDC-5824BEF2EAC9</string>
+		</dict>
+		<key>F76FECE7-75C8-4ED1-81B6-A605DF913678</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F76FECE7-75C8-4ED1-81B6-A605DF913678.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MovieQuiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MovieQuiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MovieQuiz</string>
+			<key>timeStartedRecording</key>
+			<real>615224869.77838194</real>
+			<key>timeStoppedRecording</key>
+			<real>615224880.06715798</real>
+			<key>title</key>
+			<string>Build MovieQuiz</string>
+			<key>uniqueIdentifier</key>
+			<string>F76FECE7-75C8-4ED1-81B6-A605DF913678</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
